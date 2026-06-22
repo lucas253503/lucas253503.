@@ -10,8 +10,8 @@ Meu objetivo atual é conquistar uma oportunidade de estágio ou posição júni
 .Ferramentas e Controle de Versão: Git, GitHub
 
  📂 Projetos em Destaque
-.Mini Sistema de Agendamento Esportivo: Aplicação web para reserva de horários em ambientes de lazer utilizando persistência de dados local.
-.Calculadora Simples: Projeto desenvolvido para praticar manipulação de eventos e lógica matemática no navegador.
+.[Mini Sistema de Agendamento Esportivo](https://github.com/lucas253503/sistema-agendamento-esportivo): Aplicação web para reserva de horários em ambientes de lazer utilizando persistência de dados locais.
+.[Calculadora Simples](https://github.com/lucas253503/calculadora-simples): Projeto desenvolvido para praticar manipulação de eventos e lógica matemática no navegador.
 
 ---
 👋 Obrigado por visitar meu portfólio!
