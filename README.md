@@ -39,5 +39,4 @@ Meu objetivo a curto prazo é ingressar no mercado de trabalho através de uma v
 * Absorver conhecimento de desenvolvedores mais experientes;
 * Aperfeiçoar minhas práticas de arquitetura de software, Clean Code e futuramente me especializar em frameworks modernos (como React, Node.js ou C#/.NET).
 
----
-✉️ **Contato:** Fique à vontade para explorar os repositórios e avaliar os códigos-fonte!
+Fique à vontade para explorar os repositórios e avaliar os códigos-fonte!
